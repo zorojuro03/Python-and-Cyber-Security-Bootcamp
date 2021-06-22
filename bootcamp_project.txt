@@ -1,0 +1,7 @@
+---------------------------------------------------------------
+Weather Stats for - KHATIMA || 22 Jun 2021 | 09:58:10: PM
+---------------------------------------------------------------
+Current Temperature is: 30.20 deg C
+Current Weather Description : CLEAR SKY
+Current Humidity : 61%
+Current Wind Speed : 3kmph
